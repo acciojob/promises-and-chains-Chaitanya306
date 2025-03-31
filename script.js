@@ -4,7 +4,7 @@ let name=document.getElementById('name')
 function myFunction(){
 	
 	if(age.value=='' || name.value==''){
-		alert("Please enter valid details.")
+		alert("Please enter valid details")
 		return
 	}
 	//alert('in the function')
